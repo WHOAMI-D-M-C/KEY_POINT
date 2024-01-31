@@ -3,3 +3,4 @@ DMC-10206u0_a206
 DMC-10283u0_a283 =smt
 DMC-10298u0_a298 =aybro
 DMC-10526u0_a526 =smt_frd
+DMC-10217u0_a217 =bless
