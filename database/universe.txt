@@ -1,7 +1,6 @@
-goDMC-10154u0_a154
+DMC-10154u0_a154
 DMC-10206u0_a206
 DMC-10283u0_a283 =smt
-DMC-10298u0_a298 =aybro
 DMC-10526u0_a526 =smt_frd
 DMC-10217u0_a217 =bless
 DMC-10178u0_a178 =pr
@@ -9,3 +8,4 @@ DMC-10177u0_a177 =uc
 DMC-10173u0_a173 =werey
 DMC-10512u0_a512 =aricoco
 DMC-10326u0_a326 =folakemi
+DMC-10291u0_a291 =2days
