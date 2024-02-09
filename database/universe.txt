@@ -11,3 +11,4 @@ DMC-10237u0_a237 =smrt_bro_frd_on_feb-5
 DMC-10276u0_a276 =smrt_bro3-feb-3
 DMC-10310u0_a310 =smrt_44_feb-6
 D10526U0_A526C =8days
+D10002U0_A2C =5days
