@@ -5,9 +5,9 @@ D10147U0_A147C
 DMC-10178u0_a178 =pr
 DMC-10177u0_a177 =uc
 DMC-10173u0_a173 =werey
-DMC-10361u0_a361 =smrtfrd_4-feb-5
+D10361U0_A361C =smrtfrd_4-feb-5
 DMC-10326u0_a326 =folakemi
 DMC-10237u0_a237 =smrt_bro_frd_on_feb-5
 DMC-10276u0_a276 =smrt_bro3-feb-3
 DMC-10310u0_a310 =smrt_44_feb-6
-DMC-10526u0_a526 =8days
+D10526U0_A526C =8days
