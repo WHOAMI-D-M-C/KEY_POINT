@@ -11,13 +11,9 @@ DMC-10276u0_a276 =smrt_bro_frd_on_feb-5
 D10276U0_A276C =smrt_bro3-feb-3
 DMC-10310u0_a310 =smrt_44_feb-6
 DMC-10526u0_a526 =8days
-DMC-10254u0_a254 =weekly
 D10283U0_A283C =smrt
 D10206U0_A206C
 DMC-10278u0_a278 = u
-DMC-10512u0_a52 ari
-DMC-10245u0_a245 = 5days feb-17
-DMC-1024##4u0_a244 =newguy feb-19
 D10237U0_A237C
 DMC-10147u0_a147
 DMC-10244u0_a244 =feb20
