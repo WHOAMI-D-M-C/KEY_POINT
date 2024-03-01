@@ -5,3 +5,4 @@ DMC-10361u0_a361
 DMC-10338u0_a338 =smt
 DMC-10217u0_a217 =2week feb27
 DMC-10205u0_a205 =1week 1stmarch
+DMC-10245u0_a245 =expired on Saturday night
