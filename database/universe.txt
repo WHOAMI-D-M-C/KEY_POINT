@@ -4,6 +4,6 @@ DMC-10222u0_a222 =power
 DMC-10361u0_a361
 DMC-10338u0_a338 =smt
 DMC-10217u0_a217 =2week feb27
-DMC-10205u0_a205 =1week 1stmarch
+😎-D4786==Its-DMC1→0→2→0→5→u→0→_→a→2→0→5u0_a205 =1week 1stmarch
 DMC-10245u0_a245 =expired on Saturday night
 😎-D4786==Its-DMC1→0→1→3→8→u→0→_→a→1→3→8u0_a138 =my
