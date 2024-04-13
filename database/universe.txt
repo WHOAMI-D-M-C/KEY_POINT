@@ -12,8 +12,6 @@ D10310U0_A310C =monthly march15
 😎-D4786==Its-DMC1→0→2→3→7→u→0→_→a→2→3→7u0_a237 =1month march22
 😎-D4786==Its-DMC1→0→3→3→0→u→0→_→a→3→3→0u0_a330 =22days march24
 
-DMC-10326u0_a326 =15days march29 folly
-
 DMC-10329u0_a329 =15days march30
 
 
